@@ -1,0 +1,1 @@
+This is my attempt at the MDN spalsh page, at the end of the multimedia and embedding. I think this is going to be a fairly fun and easy project to exemplify what i've learned so far, and all on my new (used) coding computer. 
